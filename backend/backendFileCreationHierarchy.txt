@@ -1,0 +1,13 @@
+Backend File Creation Hierarchy
+
+(1) server.js
+(2) env
+(3) connectDB.js
+(4) userRoutes.js
+(5) userController.js
+(6) protectRoute.js
+(7) userModel.js
+(8) postModel.js
+(9) generateTokenAndSetCookie.js
+(10) postRoutes.js
+(11) postController.js

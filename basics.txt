@@ -1,0 +1,46 @@
+chakra-templates : https://chakra-templates.vercel.app/forms/authentication
+
+chakra-ui-component : https://chakra-ui.com/docs/styled-system/style-props#margin-and-padding
+
+recoil - A state management library for React :https://recoiljs.org/
+
+npm install recoil
+
+for image : create short link image
+//store images in cloud
+https://console.cloudinary.com/pm/c-84a532f9de8af4370c16f8aa471dc6/developer-dashboard
+
+Cloudinary provides a secure and comprehensive API for easily uploading media files from server-side code, directly from the browser or from a mobile application.
+
+//for react icons :
+https://react-icons.github.io/react-icons/search/#q=logou
+
+//Material UI :https://mui.com/material-ui/react-skeleton/
+
+//when we use GET method then we can use useEffect hook
+
+//for know how many times ago post created:
+npm i date-fns
+
+list of technologies :
+
+//Frontend:
+(1) React
+(2) Chakra UI
+(3) Chakra Templates
+(4) React Router
+(5) React Icons
+(6) Recoil
+(7) date-fns
+
+//Backend :
+(8) NodeJS
+(9) ExpressJS
+(10) MongoDB Atlas
+(11) Mongoose
+(12) JWT
+(13) Fetch API
+(14) RESTful APIs
+(15) cloudinary
+(16) Postman
+(17) bcryptjs
